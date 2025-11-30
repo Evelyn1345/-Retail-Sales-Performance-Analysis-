@@ -94,10 +94,3 @@ This project addresses questions like:
 
 ---
 
-##  About the Author  
-
-**Anjali Singh** — B.Tech Engineering Physics student at IIT (ISM) Dhanbad.  
-Skilled in SQL, Python, data analytics, dashboarding — with strong interest in turning raw data into business-driven insights.  
-
----
-
