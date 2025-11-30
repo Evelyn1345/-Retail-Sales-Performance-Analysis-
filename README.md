@@ -1,4 +1,4 @@
-# Vendor Performance Data Analytics — End-to-End Project 
+# Retail Sales Performance Analysis — End-to-End Project 
 
 ## Project Overview  
 This project analyzes vendor performance and supply-chain efficiency for a retail/wholesale business. The goal is to turn raw sales, purchase, inventory and invoice data into meaningful business insights — helping stakeholders identify top vendors, spot underperforming vendors or slow-moving inventory, detect pricing or margin issues, and support data-driven decision-making.
